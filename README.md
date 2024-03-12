@@ -1,4 +1,4 @@
-![banner](https://github.com/Sahnawaj27/Sahnawaj27/assets/139260818/ebbd1d7f-6c16-487c-91e5-5503e90ed9c0)
+
 <h1 align="center">Hi 👋, I'm Sahnawaj Ahmed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
